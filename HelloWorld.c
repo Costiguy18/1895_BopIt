@@ -1,4 +1,5 @@
 //Assignment 9 - 1895 - Code
+// Elijah Hyndman: this is a comment for Assignment 9 ECE 1895
 
 const int buttonPin = 1;     // the number of the pushbutton pin
 const int ledPin =  13;      // the number of the LED pin
